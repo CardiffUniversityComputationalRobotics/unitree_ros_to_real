@@ -1,0 +1,5 @@
+std_msgs/Header header
+geometry_msgs/Vector3 fr_foot_velocity
+geometry_msgs/Vector3 fl_foot_velocity
+geometry_msgs/Vector3 rr_foot_velocity
+geometry_msgs/Vector3 rl_foot_velocity
