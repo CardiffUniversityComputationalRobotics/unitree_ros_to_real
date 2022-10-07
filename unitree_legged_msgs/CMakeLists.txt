@@ -21,7 +21,9 @@ add_message_files(
   LowState.msg
   HighCmd.msg
   HighState.msg
+  FootVelocity.msg
   FootVelocities.msg
+  FootForce.msg
   FootForces.msg
 )
 

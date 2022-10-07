@@ -1,5 +1,5 @@
 std_msgs/Header header
-geometry_msgs/Vector3 fr_foot_velocity
-geometry_msgs/Vector3 fl_foot_velocity
-geometry_msgs/Vector3 rr_foot_velocity
-geometry_msgs/Vector3 rl_foot_velocity
+unitree_legged_msgs/FootVelocity fr_foot_velocity
+unitree_legged_msgs/FootVelocity fl_foot_velocity
+unitree_legged_msgs/FootVelocity rr_foot_velocity
+unitree_legged_msgs/FootVelocity rl_foot_velocity

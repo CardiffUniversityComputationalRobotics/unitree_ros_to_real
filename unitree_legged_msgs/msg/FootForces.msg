@@ -1,5 +1,5 @@
 std_msgs/Header header
-geometry_msgs/Vector3 fr_foot_force
-geometry_msgs/Vector3 fl_foot_force
-geometry_msgs/Vector3 rr_foot_force
-geometry_msgs/Vector3 rl_foot_force
+unitree_legged_msgs/FootForce fr_foot_force
+unitree_legged_msgs/FootForce fl_foot_force
+unitree_legged_msgs/FootForce rr_foot_force
+unitree_legged_msgs/FootForce rl_foot_force
