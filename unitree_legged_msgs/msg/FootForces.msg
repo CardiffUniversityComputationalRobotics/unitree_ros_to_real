@@ -1,4 +1,3 @@
-std_msgs/Header header
 unitree_legged_msgs/FootForce fr_foot_force
 unitree_legged_msgs/FootForce fl_foot_force
 unitree_legged_msgs/FootForce rr_foot_force

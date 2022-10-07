@@ -1,4 +1,3 @@
-std_msgs/Header header
 unitree_legged_msgs/FootVelocity fr_foot_velocity
 unitree_legged_msgs/FootVelocity fl_foot_velocity
 unitree_legged_msgs/FootVelocity rr_foot_velocity
