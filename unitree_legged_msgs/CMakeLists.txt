@@ -22,9 +22,9 @@ add_message_files(
   HighCmd.msg
   HighState.msg
   FootVelocity.msg
-  FootVelocities.msg
+  FeetVelocities.msg
   FootForce.msg
-  FootForces.msg
+  FeetForces.msg
 )
 
 generate_messages(
